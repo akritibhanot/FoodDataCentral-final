@@ -1,0 +1,118 @@
+C:\Users\Dell\source\repos\FoodDataCentral-master (1)\FoodDataCentral-master
+
+
+C:\Users\Dell\source\repos>cd C:/Users/Dell/source/repos/FoodDataCentral-master (1)\FoodDataCentral-master
+
+C:\Users\Dell\source\repos\FoodDataCentral-master (1)\FoodDataCentral-master>git log --author="Akriti Bhanot" --pretty=tformat: --numstat
+1       0       FoodDataCentral/Models/FoodModel.cs
+1       1       FoodDataCentral/Views/Home/FoodSelection.cshtml
+63      0       .gitattributes
+340     0       .gitignore
+16      0       FoodDataCentral-final.sln
+109     0       FoodDataCentral/Controllers/HomeController.cs
+13      0       FoodDataCentral/FoodDataCentral.csproj
+11      0       FoodDataCentral/Models/ErrorViewModel.cs
+16      0       FoodDataCentral/Models/FoodDataCentralApplicationDb.cs
+53      0       FoodDataCentral/Models/FoodModel.cs
+23      0       FoodDataCentral/Program.cs
+28      0       FoodDataCentral/Properties/launchSettings.json
+68      0       FoodDataCentral/Startup.cs
+130     0       FoodDataCentral/Views/Home/About.cshtml
+74      0       FoodDataCentral/Views/Home/FoodSelection.cshtml
+76      0       FoodDataCentral/Views/Home/Index.cshtml
+76      0       FoodDataCentral/Views/Home/aboutusnew.html
+25      0       FoodDataCentral/Views/Shared/Error.cshtml
+53      0       FoodDataCentral/Views/Shared/_Layout.cshtml
+2       0       FoodDataCentral/Views/Shared/_ValidationScriptsPartial.cshtml
+3       0       FoodDataCentral/Views/_ViewImports.cshtml
+3       0       FoodDataCentral/Views/_ViewStart.cshtml
+9       0       FoodDataCentral/appsettings.Development.json
+15      0       FoodDataCentral/appsettings.json
+62      0       FoodDataCentral/wwwroot/css/aboutus.css
+62      0       FoodDataCentral/wwwroot/css/aboutus2.css
+71      0       FoodDataCentral/wwwroot/css/site.css
+122     0       FoodDataCentral/wwwroot/css/slider1.css
+27      0       FoodDataCentral/wwwroot/css/topnav.css
+:...skipping...
+1       0       FoodDataCentral/Models/FoodModel.cs
+1       1       FoodDataCentral/Views/Home/FoodSelection.cshtml
+63      0       .gitattributes
+340     0       .gitignore
+16      0       FoodDataCentral-final.sln
+109     0       FoodDataCentral/Controllers/HomeController.cs
+13      0       FoodDataCentral/FoodDataCentral.csproj
+11      0       FoodDataCentral/Models/ErrorViewModel.cs
+16      0       FoodDataCentral/Models/FoodDataCentralApplicationDb.cs
+53      0       FoodDataCentral/Models/FoodModel.cs
+23      0       FoodDataCentral/Program.cs
+28      0       FoodDataCentral/Properties/launchSettings.json
+68      0       FoodDataCentral/Startup.cs
+130     0       FoodDataCentral/Views/Home/About.cshtml
+74      0       FoodDataCentral/Views/Home/FoodSelection.cshtml
+76      0       FoodDataCentral/Views/Home/Index.cshtml
+76      0       FoodDataCentral/Views/Home/aboutusnew.html
+25      0       FoodDataCentral/Views/Shared/Error.cshtml
+53      0       FoodDataCentral/Views/Shared/_Layout.cshtml
+2       0       FoodDataCentral/Views/Shared/_ValidationScriptsPartial.cshtml
+3       0       FoodDataCentral/Views/_ViewImports.cshtml
+3       0       FoodDataCentral/Views/_ViewStart.cshtml
+9       0       FoodDataCentral/appsettings.Development.json
+15      0       FoodDataCentral/appsettings.json
+62      0       FoodDataCentral/wwwroot/css/aboutus.css
+62      0       FoodDataCentral/wwwroot/css/aboutus2.css
+71      0       FoodDataCentral/wwwroot/css/site.css
+122     0       FoodDataCentral/wwwroot/css/slider1.css
+27      0       FoodDataCentral/wwwroot/css/topnav.css
+-       -       FoodDataCentral/wwwroot/favicon.ico
+-       -       FoodDataCentral/wwwroot/images/Akriti.png
+-       -       FoodDataCentral/wwwroot/images/Kavin.PNG
+-       -       FoodDataCentral/wwwroot/images/Megha.jpg
+-       -       FoodDataCentral/wwwroot/images/background.jpeg
+-       -       FoodDataCentral/wwwroot/images/background2.jpg
+-       -       FoodDataCentral/wwwroot/images/bg1.jpg
+-       -       FoodDataCentral/wwwroot/images/bg2.jpg
+-       -       FoodDataCentral/wwwroot/images/disease.jpg
+-       -       FoodDataCentral/wwwroot/images/facts.jpg
+-       -       FoodDataCentral/wwwroot/images/fruitsveggies.PNG
+-       -       FoodDataCentral/wwwroot/images/info2.jpg
+-       -       FoodDataCentral/wwwroot/images/infographic.PNG
+-       -       FoodDataCentral/wwwroot/images/infographic.jpg
+4       0       FoodDataCentral/wwwroot/js/site.js
+22      0       FoodDataCentral/wwwroot/lib/bootstrap/LICENSE
+3719    0       FoodDataCentral/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css
+1       0       FoodDataCentral/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map
+7       0       FoodDataCentral/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css
+1       0       FoodDataCentral/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map
+/bin/sh: -c: line 0: syntax error near unexpected token `('
+/bin/sh: -c: line 0: `lessecho -p0x22 -d0x22 -e\\ -n0x3b -n0x20 -n0x2a -n0x3f -n0x9 -n0xa -n0x27 -n0x22 -n0x28 -n0x29 -n0x3c -n0x3e -n0x5b -n0x5d -n0x7c -n0x26 -n0x5e -n0x60 -n0x23 -n0x5c -n0x24 -n0x25 -n0x3d -n0x7e -n0x7b -n0x7d -n0x2c -- ers\Dell\source\repos>cd C:/Users/Dell/source/repos/FoodDataCentral-master (1)\FoodDataCentral-master'
+/bin/sh: -c: line 0: syntax error near unexpected token `('
+/bin/sh: -c: line 0: `lessecho -p0x22 -d0x22 -e\\ -n0x3b -n0x20 -n0x2a -n0x3f -n0x9 -n0xa -n0x27 -n0x22 -n0x28 -n0x29 -n0x3c -n0x3e -n0x5b -n0x5d -n0x7c -n0x26 -n0x5e -n0x60 -n0x23 -n0x5c -n0x24 -n0x25 -n0x3d -n0x7e -n0x7b -n0x7d -n0x2c -- ers\Dell\source\repos\FoodDataCentral-master (1)\FoodDataCentral-master>git log --author="Akriti Bhanot" --pretty=tformat: --numstat'
+331     0       FoodDataCentral/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css
+1       0       FoodDataCentral/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map
+8       0       FoodDataCentral/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css
+1       0       FoodDataCentral/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map
+10038   0       FoodDataCentral/wwwroot/lib/bootstrap/dist/css/bootstrap.css
+1       0       FoodDataCentral/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map
+7       0       FoodDataCentral/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css
+1       0       FoodDataCentral/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map
+7013    0       FoodDataCentral/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js
+1       0       FoodDataCentral/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map
+7       0       FoodDataCentral/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js
+1       0       FoodDataCentral/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map
+4435    0       FoodDataCentral/wwwroot/lib/bootstrap/dist/js/bootstrap.js
+1       0       FoodDataCentral/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map
+7       0       FoodDataCentral/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js
+1       0       FoodDataCentral/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map
+12      0       FoodDataCentral/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt
+432     0       FoodDataCentral/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js
+5       0       FoodDataCentral/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js
+22      0       FoodDataCentral/wwwroot/lib/jquery-validation/LICENSE.md
+1158    0       FoodDataCentral/wwwroot/lib/jquery-validation/dist/additional-methods.js
+4       0       FoodDataCentral/wwwroot/lib/jquery-validation/dist/additional-methods.min.js
+1601    0       FoodDataCentral/wwwroot/lib/jquery-validation/dist/jquery.validate.js
+4       0       FoodDataCentral/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js
+36      0       FoodDataCentral/wwwroot/lib/jquery/LICENSE.txt
+10872   0       FoodDataCentral/wwwroot/lib/jquery/dist/jquery.js
+2       0       FoodDataCentral/wwwroot/lib/jquery/dist/jquery.min.js
+1       0       FoodDataCentral/wwwroot/lib/jquery/dist/jquery.min.map
+Waiting for data... (interrupt to abort)
