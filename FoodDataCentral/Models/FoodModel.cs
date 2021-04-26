@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace FoodDataCentral.Models
 {
     // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse); 
+    // child class declaration -
     public class FoodNutrient
     {
         [Key]
